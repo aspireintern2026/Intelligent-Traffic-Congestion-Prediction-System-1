@@ -1,0 +1,27 @@
+# Core data science
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+
+# Boosting models
+xgboost>=2.0
+lightgbm>=4.0
+
+# Deep learning (optional)
+tensorflow>=2.13
+# torch>=2.0  # uncomment if using PyTorch/GRU
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+folium>=0.14
+geopandas>=0.14
+
+# Dashboard
+streamlit>=1.30
+
+# Explainability (optional)
+shap>=0.43
+
+# Utilities
+joblib>=1.3
